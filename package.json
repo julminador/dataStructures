@@ -1,0 +1,20 @@
+{
+  "name": "datastructures",
+  "version": "1.0.0",
+  "description": "Project to learn about data structures and practice it with javascritp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julminador/dataStructures.git"
+  },
+  "keywords": [],
+  "author": "Julian Sanchez <https://github.com/julminador>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/julminador/dataStructures/issues"
+  },
+  "homepage": "https://github.com/julminador/dataStructures#readme"
+}
