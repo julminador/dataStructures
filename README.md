@@ -1,2 +1,2 @@
-# dataStructures
-Project to learn about data structures and practice it with javascritp
+# Estructuras de datos
+Una estructura de datos nos permite ordenar la información mediante un colecciones de valores.
