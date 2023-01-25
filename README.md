@@ -1,2 +1,2 @@
 # Estructuras de datos
-Una estructura de datos nos permite ordenar la información mediante un colecciones de valores.
+Las estructuras de datos son colecciones de valores, las relaciones entre ellos y las funciones u operaciones que se pueden aplicar a los datos.
